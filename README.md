@@ -53,4 +53,4 @@ I love diving into new technologies and finding creative ways to solve problems!
 ### 🧑‍💻 Let's Connect:
 Feel free to reach out if you want to collaborate on a project, discuss tech, or just say hi!
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kulandaiyesum.kulandaiyesum)
+<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kulandaiyesum.kulandaiyesum) -->
